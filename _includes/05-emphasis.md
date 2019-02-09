@@ -1,11 +1,11 @@
 Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
 
-## Some of awesome attributes includes:
+**Some of awesome attributes includes**:
 * Honesty
 * Goal driven
 * Integrity
 
-## Top programming efficiencies are:
+_Top programming efficiencies are_:
 -[x] Python
 -[x] R programming
 -[x] Matlab
